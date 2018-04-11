@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/01TestingPersistance/01TestingPersistanceScene2.unity
     guid: d044a8e3184dc4e4190214e729ffb03a
+  - enabled: 1
+    path: Assets/Scenes/02TestingCollisionsIn3DSpace/02TestingCollisionsIn3DSpace.unity
+    guid: a051bbf3f8b589346a38bbfa4213d77b

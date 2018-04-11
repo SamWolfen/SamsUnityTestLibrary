@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/01TestingPersistance/01TestingPersistanceScene1.unity
+- path: Assets/Scenes/02TestingCollisionsIn3DSpace/02TestingCollisionsIn3DSpace.unity
   isLoaded: 1
   isActive: 1
