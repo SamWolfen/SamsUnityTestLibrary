@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamsUnityTestLibrary", "SamsUnityTestLibrary.csproj", "{873F8F91-6656-8D48-5C20-72CB0DD62C26}"
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamsUnityTestLibrary", "Assembly-CSharp.csproj", "{0990E10F-A574-3F04-B353-32FB777A347F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{873F8F91-6656-8D48-5C20-72CB0DD62C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{873F8F91-6656-8D48-5C20-72CB0DD62C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{873F8F91-6656-8D48-5C20-72CB0DD62C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{873F8F91-6656-8D48-5C20-72CB0DD62C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0990E10F-A574-3F04-B353-32FB777A347F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0990E10F-A574-3F04-B353-32FB777A347F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0990E10F-A574-3F04-B353-32FB777A347F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0990E10F-A574-3F04-B353-32FB777A347F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
